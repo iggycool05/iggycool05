@@ -1,45 +1,56 @@
-# Hi, I'm Charlie 👋
+# Hi, I'm Charlie Pope 👋
 
-I’m a Computer Science student and developer focused on building interactive web tools and exploring machine learning.
+I'm a Computer Science student at the University of Dayton with a minor in Business Administration. I focus on building practical software tools while developing skills in AI, data science, and cybersecurity.
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on: Web-based HTML/CSS/JS editor with live preview
-- 🌱 Learning: Machine Learning, Data Science, and system design
-- 💡 Interested in: Building tools that make coding easier and more accessible
-- 🎯 Goal: Create impactful software and land a top-tier internship
+## 💡 About Me
+
+- 🎓 Computer Science @ University of Dayton  
+- 📊 Minor in Business Administration  
+- 🤖 Concentrating in AI & Data Science  
+- 🔐 Interested in Cyber Defense and system security  
+- 🛠️ Currently building a web-based HTML/CSS/JS editor with live preview  
+- 🚀 Goal: Build impactful software and land a top-tier internship  
+
+---
+
+## 🧠 What I Do
+
+I enjoy building tools that make development more intuitive and accessible. My work combines frontend development, problem solving, and data-driven thinking. I am especially interested in projects that bridge usability and technical depth.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+**Languages:**  
+Python • JavaScript • HTML • CSS  
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+**Tools & Technologies:**  
+Git • VS Code • Jupyter • scikit-learn • PyTorch  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 Web App Builder
-A drag-and-drop HTML/CSS/JS editor with live preview and styling tools.
+### 🌐 Website Maker  
+A web-based HTML/CSS/JS editor with live preview, styling tools, and interactive UI features.
 
-### 📊 Airbnb Price Predictor
-Machine learning model predicting listing prices using real-world data.
+### 📊 Airbnb Price Predictor  
+A machine learning model that predicts Airbnb listing prices using real-world data.
+
+### 🔄 File Transfer Project  
+A program designed to simplify transferring files between devices efficiently.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iggycool05&show_icons=true)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add later)
-- Email: (optional)
+## 📫 Contact
+
+- 📧 Email: popec4@udayton.edu
+- 💼 LinkedIn: (add later)

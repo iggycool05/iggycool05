@@ -42,15 +42,13 @@ A web-based HTML/CSS/JS editor with live preview and interactive styling tools.
 ### 📊 Airbnb Price Predictor  
 A machine learning model that predicts Airbnb listing prices using real-world data.
 
-### 🔄 File Transfer Project  
-A program designed to simplify transferring files between devices efficiently.
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iggycool05&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggycool05&layout=compact" />
 </p>
 
 ---

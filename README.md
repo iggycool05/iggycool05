@@ -47,9 +47,13 @@ A machine learning model that predicts Airbnb listing prices using real-world da
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iggycool05&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggycool05&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=iggycool05&show_icons=true&theme=github_dark" />
 </p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggycool05&layout=compact&theme=github_dark" />
+</p>
+
 
 ---
 

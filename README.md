@@ -71,4 +71,4 @@ A machine learning model that predicts Airbnb listing prices using real-world da
 ## 📫 Contact
 
 - 📧 Email: popec4@udayton.edu
-- 💼 LinkedIn: (add later)
+- 💼 LinkedIn: www.linkedin.com/in/charles-pope-2b82b9436

@@ -15,7 +15,6 @@ Focused on AI, Data Science, and Cyber Defense
 - 🤖 Concentrating in AI & Data Science  
 - 🔐 Interested in Cyber Defense and system security  
 - 🛠️ Currently building a web-based HTML/CSS/JS editor with live preview  
-- 🚀 Goal: Build impactful software and secure a top-tier internship  
 
 ---
 
